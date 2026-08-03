@@ -1,6 +1,8 @@
 {
   "apps" : [
     {
+      "bundleIdentifier" : "app.mirage.prestige",
+      "developerName" : "Wapixel",
       "downloadURL" : "https:\/\/github.com\/xXWapixelXx\/Mirage-updates\/releases\/latest\/download\/Mirage.ipa",
       "iconURL" : "https:\/\/img.icons8.com\/sf-ultralight-filled\/1200\/google-maps-new.jpg",
       "name" : "Mirage",
