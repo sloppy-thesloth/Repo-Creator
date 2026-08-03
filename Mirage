@@ -1,0 +1,16 @@
+{
+  "apps" : [
+    {
+      "downloadURL" : "https:\/\/github.com\/xXWapixelXx\/Mirage-updates\/releases\/latest\/download\/Mirage.ipa",
+      "iconURL" : "https:\/\/img.icons8.com\/sf-ultralight-filled\/1200\/google-maps-new.jpg",
+      "name" : "Mirage",
+      "version" : "latest"
+    }
+  ],
+  "headerURL" : "https:\/\/img.icons8.com\/sf-ultralight-filled\/1200\/google-maps-new.jpg",
+  "iconURL" : "https:\/\/img.icons8.com\/sf-ultralight-filled\/1200\/google-maps-new.jpg",
+  "identifier" : "com.Mirage.latest.ipa",
+  "name" : "Mirage Repo",
+  "subtitle" : "Latest Mirage location spoofer ipa",
+  "website" : "https:\/\/github.com\/xXWapixelXx\/Mirage-updates"
+}
