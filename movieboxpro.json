@@ -1,8 +1,11 @@
 {
   "apps" : [
     {
+      "bundleIdentifier" : "com.xd.mbp31",
+      "developerName" : "MBP Team",
       "downloadURL" : "https:\/\/mbp.pub\/ipa",
-      "name" : ""
+      "iconURL" : "https:\/\/styles.redditmedia.com\/t5_29hb17\/styles\/communityIcon_",
+      "name" : "MovieBoxPro"
     }
   ],
   "headerURL" : "https:\/\/styles.redditmedia.com\/t5_29hb17\/styles\/communityIcon_xmoew2meor5d1.png",
