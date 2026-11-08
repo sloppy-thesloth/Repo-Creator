@@ -4,12 +4,12 @@
       "bundleIdentifier" : "net.flystream.ios",
       "developerName" : "FlyStream",
       "downloadURL" : "https:\/\/flystream.net\/ios.ipa",
-      "iconURL" : "https:\/\/github.com\/sloppy-thesloth\/Repo-Creator\/blob\/main\/FlyStream%20Icon.png?raw=true",
+      "iconURL" : "https://raw.githubusercontent.com/sloppy-thesloth/Repo-Creator/main/FlyStream-Icon.png",
       "name" : "FlyStream",
       "version" : "Latest"
     }
   ],
-  "iconURL" : "https:\/\/github.com\/sloppy-thesloth\/Repo-Creator\/blob\/main\/FlyStream%20Icon.png?raw=true",
+  "iconURL" : "https://raw.githubusercontent.com/sloppy-thesloth/Repo-Creator/main/FlyStream-Icon.png",
   "identifier" : "net.flystream.ios",
   "name" : "FlyStream",
   "subtitle" : "Latest Flystream App",
